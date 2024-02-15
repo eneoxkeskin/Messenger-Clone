@@ -1,13 +1,1 @@
-## Getting Started
-
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
+![2](https://github.com/eneoxkeskin/Messenger-Clone/assets/157140481/3107bae7-d5b1-429c-b6b3-0adaef6b9601)
